@@ -1,0 +1,6 @@
+Reunión sábado 06 de abril: 
+
+- código para reducir los datos a zonas de interés: Mixco. 
+lugpob, nombre_pob, longitud, latitud, poblacion
+- grafo de la red de transmetro actual (tarea JA)
+- coordenadas de calles y carreteras que conecten con la red de transmetro (tarea Chichan)
