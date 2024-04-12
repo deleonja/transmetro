@@ -4,3 +4,6 @@ Reunión sábado 06 de abril:
 lugpob, nombre_pob, longitud, latitud, poblacion
 - grafo de la red de transmetro actual (tarea JA)
 - coordenadas de calles y carreteras que conecten con la red de transmetro (tarea Chichan)
+
+Reunión jueves 11 de abril: 
+- calcular los puntos más cercanos al bulevar de cada punto de población
